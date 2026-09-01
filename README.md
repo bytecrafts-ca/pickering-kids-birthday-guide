@@ -1,3 +1,3 @@
-# Pickering Kids Birthday Party Guide
+# Party Pickering
 
-Local comparison guide · https://bytecrafts-ca.github.io/pickering-kids-birthday-guide/
+https://bytecrafts-ca.github.io/pickering-kids-birthday-guide/
