@@ -1,5 +1,3 @@
 # Pickering Kids Birthday Party Guide
 
-Static local guide deployed to GitHub Pages.
-
-Live: https://bytecrafts-ca.github.io/pickering-kids-birthday-guide/
+Local comparison guide · https://bytecrafts-ca.github.io/pickering-kids-birthday-guide/
